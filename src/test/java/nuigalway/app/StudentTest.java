@@ -2,9 +2,6 @@ package nuigalway.app;
 
 import org.joda.time.DateTime;
 import org.junit.*;
-import org.joda.*;
-
-import java.util.Date;
 
 import static junit.framework.TestCase.assertEquals;
 
